@@ -1,2 +1,2 @@
 #!/bin/bash
-$realpath 0-current_working_directory 
+readlink -f 0-current_working_directory 
