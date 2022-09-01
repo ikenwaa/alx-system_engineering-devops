@@ -6,3 +6,6 @@ This script switches the current user to the user `betty`.
 
 ## Task 1. Who am I
 This script when run prints the effective username of the current user.
+
+## Task 3. Groups
+This script prints all the groups(not WhatsApp groups :D) that the current user is part of.
