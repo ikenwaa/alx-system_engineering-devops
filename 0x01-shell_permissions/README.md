@@ -30,3 +30,6 @@ This script when run will set read, write and execute permissions to the file `h
 
 ## Task 9. John Doe
 This script when run will set read, write, execute permissions to the owner, read and execute permissions to the group owner then write and execute permissions to other users to the `hello` file.
+
+## Task 10. Look in the mirror
+This script will set the permissions of the file `hello` to the same as `olleh`.
