@@ -10,5 +10,8 @@ This script when run prints the effective username of the current user.
 ## Task 2. Groups
 This script prints all the groups(not WhatsApp groups :D) that the current user is part of.
 
-##Task 3. New owner
+## Task 3. New owner
 This script changes the owner of the file `hello` to the user `betty`.
+
+## Task 4. Empty!
+This script when run will create an empty file called `hello`.
