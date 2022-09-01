@@ -27,3 +27,6 @@ This script when run will add execute permission to the owner, the group owner a
 
 ## Task 8. James Bond
 This script when run will set read, write and execute permissions to the file `hello` to only other users.
+
+## Task 9. John Doe
+This script when run will set read, write, execute permissions to the owner, read and execute permissions to the group owner then write and execute permissions to other users to the `hello` file.
