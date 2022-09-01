@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u betty zsh\n
+sudo -u betty zsh
