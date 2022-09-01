@@ -15,3 +15,6 @@ This script changes the owner of the file `hello` to the user `betty`.
 
 ## Task 4. Empty!
 This script when run will create an empty file called `hello`.
+
+## Task 5. Execute
+This script will add execute permission to the owner of the file `hello`.
