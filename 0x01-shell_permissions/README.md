@@ -37,3 +37,21 @@ This script will set the permissions of the file `hello` to the same as `olleh`.
 
 ## Task 11. Directories
 This script will add execute permission to all subdirectories of the current directory for the owner, the group owner and all the users. Permissions for regular files will not be changed.
+
+## Task 12. More directories
+This script creates a directory called `my_dir` with permissions to read, write and execute for the owner, read and execute for the group owner and only execute for other users.
+
+## Task 13. Change group
+This script when run will change the group owner to `school` for the file `hello`.
+
+## Task 14. Owner and group
+This script will change the owner to `vincent` and the group owner to `staff` for all files and directories in the working directory.
+
+## Task 15. Symbolic links
+This script will change the owner and the group owner of `_hello` to `vincent` and `staff` respectively.
+
+## Task 16. If only
+This script will change the owner of the file `hello` to `betty` only if it is owned by the user `guillame`.
+
+## Task 17. Star Wars
+This script will play the Star Wars IV episode in the terminal.
