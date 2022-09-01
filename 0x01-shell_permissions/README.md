@@ -21,3 +21,6 @@ This script will add execute permission to the owner of the file `hello`.
 
 ## Task 6. Multiple permissions
 This script will add execute permission to the owner and the group owner, and read permission to other users to the file `hello`.
+
+## Task 7. Everybody!
+This script when run will add execute permission to the owner, the group owner and the other users to the file `hello`.
