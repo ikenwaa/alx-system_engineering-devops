@@ -1,4 +1,5 @@
 # Shell - Permissions
+## 0x01-shell_permissions
 This directory contains solutions to shell permission tasks provided by ALX Full Stack Software Engineering program.
 
 ## Task 0. My name is Betty
@@ -33,3 +34,6 @@ This script when run will set read, write, execute permissions to the owner, rea
 
 ## Task 10. Look in the mirror
 This script will set the permissions of the file `hello` to the same as `olleh`.
+
+## Task 11. Directories
+This script will add execute permission to all subdirectories of the current directory for the owner, the group owner and all the users. Permissions for regular files will not be changed.
