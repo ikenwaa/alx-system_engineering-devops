@@ -27,3 +27,18 @@ This script will create a global variable `BEST` when run.
 
 ## Task 8. Every addition to true knowledge is an addition to human power.
 This script when run will print the result of the addition of 128 to the value stored in the environment variable `TRUEKNOWLEDGE` followed by a new line.
+
+## Task 9. Divide and rule
+This script will print the result of `POWER` divided by `DIVIDE` followed by a new line when run.
+
+## Task 10. Love is anterior, posterior to death, initial of creation, and the exponent of breath
+This script will print to the standard output, the result of `BREATH` raised to the power `LOVE`.
+
+## Task 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
+This script will convert a number from base 2 to base 10 when run.
+
+## Task 12. Combination
+This script will create all possible combinations of letters, except `oo` when run.
+
+## Task 13. Floats
+This script will print a number with two decimal places followed by a new line when run.
