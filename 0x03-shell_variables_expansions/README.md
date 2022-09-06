@@ -18,3 +18,12 @@ This script will list environment variables when run.
 
 ## Task 5. Local variables
 This script will list all local variables, environment variables and functions.
+
+## Task 6. Local variable
+This script will create a local variable `BEST` when run.
+
+## Task 7. Global variable
+This script will create a global variable `BEST` when run.
+
+## Task 8. Every addition to true knowledge is an addition to human power.
+This script when run will print the result of the addition of 128 to the value stored in the environment variable `TRUEKNOWLEDGE` followed by a new line.
