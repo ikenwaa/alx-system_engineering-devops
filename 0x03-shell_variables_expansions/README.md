@@ -42,3 +42,18 @@ This script will create all possible combinations of letters, except `oo` when r
 
 ## Task 13. Floats
 This script will print a number with two decimal places followed by a new line when run.
+
+## Task 14. Decimal to Hexadecimal
+This script will convert a number from base 10 to base 16 when run.
+
+## Task 15. Everyone is a proponent of strong encryption
+This script will encode and decode text using the rot13 ecryption assuming ASCII.
+
+## Task 16. The eggs of the brood need to be an odd number
+This script prints every other line from the input, starting with the first line.
+
+## Task 17. I'm an instant star. Just add water and stir.
+This script adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result.
+	* `WATER` is in base `water`
+	* `STIR` is in base `stir.`
+	* Result will be in base `bestchol` 
