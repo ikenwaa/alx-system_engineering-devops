@@ -54,6 +54,6 @@ This script prints every other line from the input, starting with the first line
 
 ## Task 17. I'm an instant star. Just add water and stir.
 This script adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result.
-	* `WATER` is in base `water`
-	* `STIR` is in base `stir.`
-	* Result will be in base `bestchol` 
+* `WATER` is in base `water`
+* `STIR` is in base `stir.`
+* Result will be in base `bestchol` 
